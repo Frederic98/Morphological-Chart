@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<functions project="FRC 2017 - FIRST STEAMworks">
+	<function name="Drive">
+		<subFunction name="Wheels type" />
+		<subFunction name="Wheels amount/config" />
+		<subFunction name="Shape drivetrain" />
+		<subFunction name="Turning" />
+	</function>
+	<function name="Balls">
+		<subFunction name="Intake ground" />
+		<subFunction name="Intake feeder station" />
+		<subFunction name="Transport -&gt; shooter" />
+		<subFunction name="Transport -&gt; storage" />
+		<subFunction name="Shooter" />
+		<subFunction name="Aim" />
+		<subFunction name="Storage" />
+	</function>
+	<function name="Gears">
+		<subFunction name="Intake ground" />
+		<subFunction name="Intake feeder station" />
+		<subFunction name="Transport -&gt; storage" />
+		<subFunction name="Transport -&gt; placing" />
+		<subFunction name="Placing passive" />
+		<subFunction name="Placing active" />
+		<subFunction name="Aim" />
+		<subFunction name="Storage" />
+	</function>
+	<function name="Climbing">
+		<subFunction name="Grab rope" />
+		<subFunction name="Holding on the rope" />
+		<subFunction name="Lifting" />
+		<subFunction name="Locking" />
+		<subFunction name="Press touchpad" />
+	</function>
+</functions>

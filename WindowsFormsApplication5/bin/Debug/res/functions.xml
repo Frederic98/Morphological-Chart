@@ -1,0 +1,34 @@
+<functions>
+    <function name="Drive">
+        <subFunction>Wheels type</subFunction>
+        <subFunction>Wheels amount/config</subFunction>
+        <subFunction>Shape drivetrain</subFunction>
+		<subFunction>Turning</subFunction>
+    </function>
+    <function name="Balls">
+        <subFunction>Intake ground</subFunction>
+        <subFunction>Intake feeder station</subFunction>
+        <subFunction>Transport -> shooter</subFunction>
+        <subFunction>Transport -> storage</subFunction>
+        <subFunction>Shooter</subFunction>
+        <subFunction>Aim</subFunction>
+        <subFunction>Storage</subFunction>
+    </function>
+    <function name="Gears">
+        <subFunction>Intake ground</subFunction>
+        <subFunction>Intake feeder station</subFunction>
+        <subFunction>Transport -> storage</subFunction>
+        <subFunction>Transport -> placing</subFunction>
+        <subFunction>Placing passive</subFunction>
+        <subFunction>Placing active</subFunction>
+        <subFunction>Aim</subFunction>
+        <subFunction>Storage</subFunction>
+    </function>
+    <function name="Climbing">
+        <subFunction>Grab rope</subFunction>
+        <subFunction>Holding on the rope</subFunction>
+        <subFunction>Lifting</subFunction>
+        <subFunction>Locking</subFunction>
+        <subFunction>Press touchpad</subFunction>
+    </function>
+</functions>

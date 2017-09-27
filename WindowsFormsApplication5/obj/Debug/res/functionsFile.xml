@@ -1,0 +1,27 @@
+<functions>
+	<function name="Drive">
+		<subFunction>Wheels</subFunction>
+		<subFunction>Number of Wheels</subFunction>
+		<subFunction>Shape</subFunction>
+		<subFunction>Transmission</subFunction>
+		<subFunction>Communication</subFunction>
+		<subFunction>Steering</subFunction>
+	</function>
+	<function name="Climb">
+		<subFunction>Grab</subFunction>
+		<subFunction>Hold on</subFunction>
+		<subFunction>Lift</subFunction>
+	</function>
+	<function name="Shoot">
+		<subFunction>Propelling</subFunction>
+		<subFunction>Flipping</subFunction>
+		<subFunction>Picking up</subFunction>
+		<subFunction>Transport to shooter</subFunction>
+		<subFunction>Manual loading</subFunction>
+	</function>
+	<function name="Aim">
+		<subFunction>Vertical aim</subFunction>
+		<subFunction>Horizontal aim</subFunction>
+		<subFunction>Detect goal</subFunction>
+	</function>
+</functions>

@@ -1,0 +1,16 @@
+<Settings>
+	<!-- Old functions layout. Remove when possible -->
+	<setting name="functionListURL">http://pastebin.com/raw/Wm6v3C8R</setting>
+	<setting name="functionListURL">http://pastebin.com/raw/11kYPK3H</setting>
+
+	<!-- A list of all the projects for the morphological chart -->
+	<Projects>
+		<!-- <Project name="Project name" url="URL to the functions file" /> -->
+		<Project name="FRC 2017 - FIRST STEAMworks" url="http://pastebin.com/raw/kdSCbE5q" />
+	</Projects>
+	
+	<!-- Last color is used. Other themes can still be in this list -->
+	<Color back="#E3F2FD" fore="#2196F3" hover="#1E88E5" click="#1976D2" border="#1565C0" name="Blue theme"/>
+	<Color back="#33691E" fore="#8BC34A" hover="#7CB342" click="#689F38" border="#558B2F" name="Green theme"/>
+	<Color back="#2D2D30" fore="#EF7C04" hover="#C86E04" click="#965003" border="#A75703" name="Rembrandts theme"/>
+</Settings>

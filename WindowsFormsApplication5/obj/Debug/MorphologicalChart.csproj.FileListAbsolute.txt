@@ -1,0 +1,13 @@
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Morphological Map.exe.config
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Morphological Map.exe
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Morphological Map.pdb
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.layerItemEdit.resources
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.loadingScreen.resources
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.main.resources
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.Properties.Resources.resources
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.csproj.GenerateResource.Cache
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Morphological Map.exe
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Morphological Map.pdb
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.csprojResolveAssemblyReference.cache
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.mailSend.resources
+D:\Users\Frederic\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\MorphologicalChart.viewImage.resources

@@ -1,0 +1,73 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MorphologicalChart.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="colorBack" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">45, 45, 48</Value>
+    </Setting>
+    <Setting Name="colorFront" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">239, 124, 4</Value>
+    </Setting>
+    <Setting Name="colorFrontBorder" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">167, 87, 3</Value>
+    </Setting>
+    <Setting Name="colorFrontHover" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">200, 110, 4</Value>
+    </Setting>
+    <Setting Name="colorFrontClick" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">150, 80, 3</Value>
+    </Setting>
+    <Setting Name="programName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Morphological Chart Creator</Value>
+    </Setting>
+    <Setting Name="mailToAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">email@here.com</Value>
+    </Setting>
+    <Setting Name="loadingTimeMin" Description="... ms" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="autosaveTime" Description="... seconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="mailFromAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">email@here.com</Value>
+    </Setting>
+    <Setting Name="mailToName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Morphological Chart Team Rembrandts</Value>
+    </Setting>
+    <Setting Name="mailFromName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Morphological Chart Team Rembrandts</Value>
+    </Setting>
+    <Setting Name="mailFromPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">passwd.here.123</Value>
+    </Setting>
+    <Setting Name="mailFromHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="mailFromPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="mailSubject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Morphological chart {0} {1}</Value>
+    </Setting>
+    <Setting Name="mailBody" Description="0: PC name; 1: User name; 2: date 3: File name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Morphological chart
+PC name: {0}
+User name: {1}
+Date: {2}
+File: {3}</Value>
+    </Setting>
+    <Setting Name="cureBoredomMinMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="cureBoredomMaxSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="urlSettings" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://pastebin.com/raw/mxdYqL6Y</Value>
+    </Setting>
+    <Setting Name="urlFunctions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

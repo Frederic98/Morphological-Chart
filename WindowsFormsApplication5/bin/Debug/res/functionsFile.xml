@@ -1,0 +1,18 @@
+<functions>
+    <function name="Control robot">
+        <subFunction>Driving</subFunction>
+        <subFunction>Game operation</subFunction>
+		<subFunction>Console connection</subFunction>
+    </function>
+    <function name="Display">
+        <subFunction>Live feed</subFunction>
+        <subFunction>Diagnostic</subFunction>
+        <subFunction>Mechanism</subFunction>
+    </function>
+    <function name="CAD">
+        <subFunction>Solidworks</subFunction>
+    </function>
+    <function name="Impress people">
+        <subFunction>Impress</subFunction>
+    </function>
+</functions>
